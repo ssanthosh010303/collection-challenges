@@ -1,0 +1,48 @@
+[submodule "d1/c1"]
+	path = d1/c1
+	url = git@github.com:ssanthosh010303/d1c1.git
+[submodule "d1/c2"]
+	path = d1/c2
+	url = git@github.com:ssanthosh010303/d1c2.git
+[submodule "d2/c1"]
+	path = d2/c1
+	url = git@github.com:ssanthosh010303/d2c1.git
+[submodule "d3/c1"]
+	path = d3/c1
+	url = git@github.com:ssanthosh010303/d3c1.git
+[submodule "d3/c2"]
+	path = d3/c2
+	url = git@github.com:ssanthosh010303/d3c2.git
+[submodule "d3/c3"]
+	path = d3/c3
+	url = git@github.com:ssanthosh010303/d3c3.git
+[submodule "d3/c4"]
+	path = d3/c4
+	url = git@github.com:ssanthosh010303/d3c4.git
+[submodule "d3/c5"]
+	path = d3/c5
+	url = git@github.com:ssanthosh010303/d3c5.git
+[submodule "d4/c1"]
+	path = d4/c1
+	url = git@github.com:ssanthosh010303/d4c1.git
+[submodule "d4/c2"]
+	path = d4/c2
+	url = git@github.com:ssanthosh010303/d4c2.git
+[submodule "d5/c1"]
+	path = d5/c1
+	url = git@github.com:ssanthosh010303/d5c1.git
+[submodule "d5/c2"]
+	path = d5/c2
+	url = git@github.com:ssanthosh010303/d5c2.git
+[submodule "d6/c1"]
+	path = d6/c1
+	url = git@github.com:ssanthosh010303/d6c1.git
+[submodule "d7/c1"]
+	path = d7/c1
+	url = git@github.com:ssanthosh010303/d7c1.git
+[submodule "d7/c2"]
+	path = d7/c2
+	url = git@github.com:ssanthosh010303/d7c2.git
+[submodule "d8/c1"]
+	path = d8/c1
+	url = git@github.com:ssanthosh010303/d8c1.git
