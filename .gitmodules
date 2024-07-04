@@ -154,3 +154,6 @@
 [submodule "d61/c1"]
 	path = d61/c1
 	url = git@github.com:ssanthosh010303/d61c1.git
+[submodule "d62/c1"]
+	path = d62/c1
+	url = git@github.com:ssanthosh010303/d62c1.git
